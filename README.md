@@ -12,8 +12,8 @@ Ce README décrit les documents relatifs au test technique réalisé pour Moloto
 ## Structure du repository:
 
 * Data : Contient les données nécessaires pour le test - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/tree/main/Data)
-* Resolution pour le Question 1 : Analyse exploratoire avec Python - Lien 🔗
-* Resolution pour le Question 2:  Requête SQL - Lien 🔗
+* Resolution pour le Question 1 : Analyse exploratoire avec Python - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/blob/main/Question%201%3A%20Analyse%20exploratoire%20avec%20Python.ipynb)
+* Resolution pour le Question 2:  Requête SQL - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/blob/main/Question%202%3A%20Reque%CC%82te%20SQL.sql)
 
 ## Données:
 
