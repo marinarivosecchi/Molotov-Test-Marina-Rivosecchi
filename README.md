@@ -1,7 +1,7 @@
 # Test Molotov - Marina Rivosecchi
 
 ## Introduction
-Ce README présente les instructions et les informations nécessaires pour effectuer le test technique Molotov pour le poste de Senior Analytics Engineer.
+Ce README décrit les documents relatifs au test technique réalisé pour Molotov pour le poste de Senior Analytics Engineer.
 
 ## Objectifs du test:
 
