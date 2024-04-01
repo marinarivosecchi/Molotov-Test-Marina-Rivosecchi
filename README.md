@@ -19,7 +19,8 @@ Ce README décrit les documents relatifs au test technique réalisé pour Moloto
 
 ## Données
 
-- User: Informations sur les utilisateurs (ID, date de naissance, date de création du compte). 
-- Subscription: Informations sur les abonnements des utilisateurs (ID, ID utilisateur, date de début et de fin, nom de l'offre). 
-- Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appareil, type de programme, durée, ID de la chaîne). 
-- Channel: Informations sur les chaînes (ID, nom).
+- User: Cette table recense l’ensemble des utilisateurs ayant créé un compte Molotov. 
+- Subscription: Cette table recense les souscriptions (=options payantes) détenues pour chaque utilisateur, ainsi que les dates de début et de fin de l’abonnement.
+Ainsi, si un user a plusieurs options, il apparaîtra plusieurs fois dans la table avec des id de souscription différentes. 
+- Watch: L’event de ‘watch_stopped’ est envoyé lors de l'arrêt du visionnage d’un programme et recense les différentes dimensions associées au watch (device, type de contenu visionné...).
+- Channel: Cette table regroupe l’ensemble des chaînes sur Molotov.
