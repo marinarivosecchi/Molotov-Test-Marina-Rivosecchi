@@ -17,10 +17,10 @@ Ce README décrit les documents relatifs au test technique réalisé pour Moloto
 
 ## Données:
 
-User: Informations sur les utilisateurs (ID, date de naissance, date de création du compte). 
-Subscription: Informations sur les abonnements des utilisateurs (ID, ID utilisateur, date de début et de fin, nom de l'offre). 
-Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appareil, type de programme, durée, ID de la chaîne). 
-Channel: Informations sur les chaînes (ID, nom).
+- User: Informations sur les utilisateurs (ID, date de naissance, date de création du compte). 
+- Subscription: Informations sur les abonnements des utilisateurs (ID, ID utilisateur, date de début et de fin, nom de l'offre). 
+- Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appareil, type de programme, durée, ID de la chaîne). 
+- Channel: Informations sur les chaînes (ID, nom).
 
 ## Liens utiles
 * Document Google Slides pour afficher les résultats: [Lien 🔗](https://docs.google.com/presentation/d/139Hr6Of78znmkjz6vTSzOfMOfIuzLdnqI37BCE_Zlag/edit?usp=sharing)
