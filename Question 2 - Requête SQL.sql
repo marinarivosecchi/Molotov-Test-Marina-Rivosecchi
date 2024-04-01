@@ -12,7 +12,8 @@ WITH UserCriteria AS (
         AND MONTH(W.DATE_DAY) = 5 -- Visionné en Mai 2023
         AND W.DEVICE_TYPE = 'Mobile' -- Sur mobile
         AND W.DURATION > 7200 -- Plus de 2h de visionnage
-    ));
+    )
+    );
 
 -- Sélection des utilisateurs abonnés à Molotov Extra
 MolotovExtraSubscribers AS (
