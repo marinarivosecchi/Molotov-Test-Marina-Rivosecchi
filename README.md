@@ -12,14 +12,14 @@ Ce README décrit les documents relatifs au test technique réalisé pour Moloto
 ## Structure du repository:
 
 * Data : Contient les données nécessaires pour le test - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/tree/main/Data)
-* Resolution pour le Question 1 : Analyse exploratoire avec Python - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/blob/main/Question%201%3A%20Analyse%20exploratoire%20avec%20Python.ipynb)
+* Resolution pour le Question 1 : Analyse exploratoire avec Python - Lien 🔗
 * Resolution pour le Question 2:  Requête SQL - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/blob/main/Question%202%3A%20Reque%CC%82te%20SQL.sql)
 
 ## Données:
 
-User: Informations sur les utilisateurs (ID, date de naissance, date de création du compte).
-Subscription: Informations sur les abonnements des utilisateurs (ID, ID utilisateur, date de début et de fin, nom de l'offre).
-Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appareil, type de programme, durée, ID de la chaîne).
+User: Informations sur les utilisateurs (ID, date de naissance, date de création du compte). 
+Subscription: Informations sur les abonnements des utilisateurs (ID, ID utilisateur, date de début et de fin, nom de l'offre). 
+Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appareil, type de programme, durée, ID de la chaîne). 
 Channel: Informations sur les chaînes (ID, nom).
 
 ## Liens utiles
