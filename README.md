@@ -5,13 +5,15 @@ Ce README présente les instructions et les informations nécessaires pour effec
 
 ## Objectifs du test:
 
-Effectuer une analyse exploratoire en python, une requête en SQL et faire des suggestions de KPI pour l'équipe marketing.
+* Effectuer une analyse exploratoire en Python.
+* Rédiger une requête SQL.
+* Faire des suggestions de KPI pour l'équipe marketing.
 
 ## Structure du repository:
 
-* Data
-* Resolution pour le Question 1:  Analyse exploratoire avec Python
-* Resolution pour le Question 2:  Requête SQL
+* Data : Contient les données nécessaires pour le test - [Lien 🔗](https://github.com/marinarivosecchi/Molotov-Test-Marina-Rivosecchi/tree/main/Data)
+* Resolution pour le Question 1 : Analyse exploratoire avec Python - Lien 🔗
+* Resolution pour le Question 2:  Requête SQL - Lien 🔗
 
 ## Données:
 
@@ -21,5 +23,5 @@ Watch: Informations sur les visionnages (ID, date, ID utilisateur, type d'appare
 Channel: Informations sur les chaînes (ID, nom).
 
 ## Liens utiles
-* Documente Google Slides pour afficher les résultats: [Document PPT](https://docs.google.com/presentation/d/139Hr6Of78znmkjz6vTSzOfMOfIuzLdnqI37BCE_Zlag/edit?usp=sharing)
-* Google Collab Lien por executer code Python: [[Lien Google Collab](https://colab.research.google.com/drive/1i22166VXYfs53aE4oJJ2xYmPbWFvc3UE?usp=sharing)]
+* Document Google Slides pour afficher les résultats: [Lien 🔗](https://docs.google.com/presentation/d/139Hr6Of78znmkjz6vTSzOfMOfIuzLdnqI37BCE_Zlag/edit?usp=sharing)
+* Lien Google Colab pour exécuter le code Python: [Lien 🔗](https://colab.research.google.com/drive/1i22166VXYfs53aE4oJJ2xYmPbWFvc3UE?usp=sharing)
